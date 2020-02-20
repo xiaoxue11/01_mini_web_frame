@@ -3,13 +3,14 @@ This project is developed using PyCharm 2019.3.3 under Ubuntu 18.04.
 How to run:
 1. cd to the path for this project:  cd 01_mini_web_frame
 2. Testing cases are in a text file named 'emails.txt', in which each row contains one email address. This file is under the directory '01_mini_web_frame/dynamic/'. If you want to try other test cases, please use the same format and the same file name, and put your 'emails.txt' under '01_mini_web_frame/dynamic/'.
-3. Run: ./run.sh
+3. Run: ./run.sh. (Please pay attention, after cloning from the github, you need to change "run.sh" file mode in the first time, using command line: chmod +x run.sh)
 4. Open your browser, put 'http://127.0.0.1:7890/index.html' in the URL bar.
 5. Results will be shown in the webpage, which looks like 'The number of unique email addresses is: X'. Here 'X' is the returned integer.
 
 Requirements:
 1. Python 3.6
 2. Packages specified in requirements.txt.
+3. Clone from github, find the 'run.sh' file, you need to change the file mode, 
 
 Project structure:
 1. 01_mini_web_frame/dynamic: dealing with dynamic request from web server
