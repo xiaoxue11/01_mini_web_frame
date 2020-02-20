@@ -1,0 +1,11 @@
+test.email@gmail.com
+test.email+spam@gmail.com
+testemail@gmail.com
+testemail@123.com
+testemail+abcd@126.com
+testemailabcd@126.com
+testemail@163.com
+testemail@169.com
+a.b.c.d.e.f.g.i.h.g.m.a@gmail.com
+"+spam@gmail.com"
+"+spamabcd@gmail.com"
